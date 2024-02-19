@@ -4,6 +4,7 @@ import HalamanHome from '../views/HalamanHome.vue'
 import Beranda from '../views/beranda.vue'
 import editprofil from '../views/editprofil.vue'
 import konfirmasi from '../views/konfirmasipeminjaman.vue'
+import daftar from '../views/daftarpeminjam.vue'
 const routes = [
   {
     path: '/login',
@@ -36,6 +37,11 @@ const routes = [
     path: '/konfirmasi', // Pastikan rute ini sudah didefinisikan
     name: 'konfirmasi',
     component: konfirmasi // Gantilah dengan komponen yang sesuai jika diperlukan
+  },
+  {
+    path: '/daftar', // Pastikan rute ini sudah didefinisikan
+    name: 'daftar',
+    component: daftar // Gantilah dengan komponen yang sesuai jika diperlukan
   }
   // {
   //   path: '/about',

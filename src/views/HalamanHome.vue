@@ -10,7 +10,7 @@
       <p style="font-size: 20px; font-weight: bold; margin: 30px; margin-left: 1100px; color: #002F76;">Konfirmasi Anggota</p>
     </div>
     <div class="table">
-      <table class="content-table">
+      <table class="content-table"> 
         <thead>
           <tr style="background-color: #192531; color: white; border-radius: 10px 10px 0 0;">
             <th style="width: 150px;">Nama</th>
@@ -21,37 +21,42 @@
         <tbody>
           <tr style="background-color: #D8E7FF;font-size: 12px;font-weight: 500;">
             <td style="text-align: center;">Tono Hasranuddin</td>
-            <td style="text-align: center;">xxxxxx</td>
-            <td style="text-align: center;">
-              <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Verifikasi</div>
+            <td style="text-align: center;">2024</td>
+            <td style="text-align: center; display: flex;">
+              <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;margin-right: 10px;">Verifikasi</div>
+              <div style="color: white; background-color: #e83a3a; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Tolak Verifikasi</div>
             </td>
           </tr>
           <tr style="background-color: #D8E7FF;font-size: 12px;font-weight: 500;">
             <td style="text-align: center;">Aletta Casuna Lestari</td>
-            <td style="text-align: center;">xxxxx</td>
-            <td style="text-align: center;">
-              <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Verifikasi</div>
+            <td style="text-align: center;">2023</td>
+            <td style="text-align: center; display: flex;">
+              <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;margin-right: 10px;">Verifikasi</div>
+              <div style="color: white; background-color: #e83a3a; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Tolak Verifikasi</div>
             </td>
           </tr>
           <tr style="background-color: #D8E7FF;font-size: 12px;font-weight: 500;">
             <td style="text-align: center;">Aletta Casuna Lestari</td>
-            <td style="text-align: center;">xxxxx</td>
-            <td style="text-align: center;">
-              <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Verifikasi</div>
+            <td style="text-align: center;">2022</td>
+            <td style="text-align: center; display: flex;">
+              <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;margin-right: 10px;">Verifikasi</div>
+              <div style="color: white; background-color: #e83a3a; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Tolak Verifikasi</div>
             </td>
           </tr>
           <tr style="background-color: #D8E7FF;font-size: 12px;font-weight: 500;">
             <td style="text-align: center;">Aletta Casuna Lestari</td>
-            <td style="text-align: center;">xxxxx</td>
-            <td style="text-align: center;">
-              <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Verifikasi</div>
+            <td style="text-align: center;">2021</td>
+            <td style="text-align: center; display: flex;">
+              <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;margin-right: 10px;">Verifikasi</div>
+              <div style="color: white; background-color: #e83a3a; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Tolak Verifikasi</div>
             </td>
           </tr>
           <tr style="background-color: #D8E7FF;font-size: 12px;font-weight: 500;">
             <td style="text-align: center;">Aletta Casuna Lestari</td>
-            <td style="text-align: center;">xxxxx</td>
-            <td style="text-align: center;">
-              <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Verifikasi</div>
+            <td style="text-align: center;">2020</td>
+            <td style="text-align: center; display: flex;">
+              <div style="color: white; background-color: #5FC85B; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;margin-right: 10px;">Verifikasi</div>
+              <div style="color: white; background-color: #e83a3a; border-radius: 20px; width: 120px; height: 40px; line-height: 40px;">Tolak Verifikasi</div>
             </td>
           </tr>
           <!-- Add more rows as needed -->
